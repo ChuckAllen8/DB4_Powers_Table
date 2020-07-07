@@ -29,7 +29,7 @@ namespace DB4_Powers_Table
 
         private int GetNumber()
         {
-            int entry = 0;
+            int entry;
             string input;
             
             Console.Write("Please enter an integer: ");
