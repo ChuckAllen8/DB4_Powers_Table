@@ -1,0 +1,13 @@
+C:\devbuild4\DB4_Powers_Table\bin\Debug\netcoreapp3.1\DB4_Powers_Table.exe
+C:\devbuild4\DB4_Powers_Table\bin\Debug\netcoreapp3.1\DB4_Powers_Table.deps.json
+C:\devbuild4\DB4_Powers_Table\bin\Debug\netcoreapp3.1\DB4_Powers_Table.runtimeconfig.json
+C:\devbuild4\DB4_Powers_Table\bin\Debug\netcoreapp3.1\DB4_Powers_Table.runtimeconfig.dev.json
+C:\devbuild4\DB4_Powers_Table\bin\Debug\netcoreapp3.1\DB4_Powers_Table.dll
+C:\devbuild4\DB4_Powers_Table\bin\Debug\netcoreapp3.1\DB4_Powers_Table.pdb
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.csprojAssemblyReference.cache
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.AssemblyInfoInputs.cache
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.AssemblyInfo.cs
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.csproj.CoreCompileInputs.cache
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.dll
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.pdb
+C:\devbuild4\DB4_Powers_Table\obj\Debug\netcoreapp3.1\DB4_Powers_Table.genruntimeconfig.cache
