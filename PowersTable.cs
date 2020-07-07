@@ -9,7 +9,7 @@ namespace DB4_Powers_Table
         private const int WIDTH = 15;
         private string[] columns;
         private string divider;
-
+        
         public PowersTable()
         {
             columns = new string[] { "Number", "Squared", "Cubed" };
